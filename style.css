@@ -76,7 +76,7 @@ body{
 }
 .avatar{
     position: absolute;
-    background: url(img/avatar.jpg);
+    background: url(style/img/avatar.jpg);
     background-size: cover; /* Масштабирование GIF для покрытия всего фона */
     background-repeat: no-repeat;
     box-sizing: border-box;
